@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="215" started-at="2021-10-13T12:38:26 CDT" finished-at="2021-10-13T12:38:26 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="215" started-at="2021-10-13T12:38:26 CDT" finished-at="2021-10-13T12:38:26 CDT">
+      <class name="java_prep.SumofN">
+        <test-method status="PASS" signature="randomNumber()[pri:0, instance:java_prep.SumofN@3b0143d3]" name="randomNumber" duration-ms="37" started-at="2021-10-13T12:38:26 CDT" finished-at="2021-10-13T12:38:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomNumber -->
+      </class> <!-- java_prep.SumofN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
